@@ -1,0 +1,5 @@
+pip install opencv-python or opencv-contrib-python
+pip install Pillow
+pip install numpy
+pip install os
+pip install tkinder
